@@ -5,7 +5,7 @@ namespace BankAccountNS
     /// <summary>
     /// Bank account demo class.
     /// </summary>
-    class BankAccount
+    public class BankAccount
     {
         private BankAccount() { }
 
